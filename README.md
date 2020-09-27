@@ -1,1 +1,14 @@
-# Predictive-Analytics-for-Business
+# Predictive Analytics for Business Nanodegree
+
+## Ramprakash Pavithrakannan
+
+This repository contains the projects of Udacity's [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008).
+
+### Part 1: Problem Solving with Advanced Analytics
+
+In this part, I learned a structured framework for solving problems with advanced analytics and selecting the most appropriate analytical methodology. More importantly, I learned the difference between descriptive analysis and predictive analysis, which made me read more about descriptive analysis, diagnostic analysis, predictive analysis, and prescriptive analysis. 
+-Project: Predicting Diamond Prices
+-Algorithms used: Multiple linear regression
+-Tools used: Alteyx
+
+<img src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/32ee1052-5d6a-4ab6-bf1c-c4448c65c88f.svg" width="846" height="652">
