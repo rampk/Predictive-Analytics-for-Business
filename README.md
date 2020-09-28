@@ -14,7 +14,7 @@ In this part, I learned a structured framework for solving problems with advance
 ### Part 2: Data Wrangling
 
 In this part, I learned to work with different data types, dirty data, and outliers. I have also learned to work with data from different sources.
-- Project: [Selecting Location for New Pet Store] (https://github.com/rampk/Predictive-Analytics-for-Business/tree/master/2.%20Selecting%20Location%20for%20New%20Pet%20Store)
+- Project: [Selecting Location for New Pet Store](https://github.com/rampk/Predictive-Analytics-for-Business/tree/master/2.%20Selecting%20Location%20for%20New%20Pet%20Store)
 	- Project 2.1: Data Cleanup
 	- Project 2.1: Predictive Modeling
 - Algorithms used: Multiple linear regression
